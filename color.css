@@ -1,0 +1,24 @@
+/* Utilizando palavras-chave de cores */
+body {
+    background-color: rgb(58, 1, 1);
+    color: black;
+  }
+  
+  /* Utilizando valores hexadecimais */
+  .header {
+    background-color: #3498db;
+    color: #ffffff;
+  }
+  
+  /* Utilizando valores RGB */
+  .section {
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 255, 0);
+  }
+  
+  /* Utilizando valores RGBA */
+  .footer {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: rgba(255, 255, 255, 0.8);
+  }
+  
